@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "444007529918",
+    "firebase_url": "https://sendbird-d46f0.firebaseio.com",
+    "project_id": "sendbird-d46f0",
+    "storage_bucket": "sendbird-d46f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444007529918:android:9f4063ad4a3062b8",
+        "android_client_info": {
+          "package_name": "com.sendbird.android.sample.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444007529918-i51jc8akh8bqsb0i88fppcjqg1ephlht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOAMtMyvLZfDtwDfKKuJk-TDLt_LaLgH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444007529918:android:abe06d49c04fba23",
+        "android_client_info": {
+          "package_name": "com.sendbird.android.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444007529918-i51jc8akh8bqsb0i88fppcjqg1ephlht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOAMtMyvLZfDtwDfKKuJk-TDLt_LaLgH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
